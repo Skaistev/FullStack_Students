@@ -1,0 +1,20 @@
+header {
+  font-size: 20px;
+  
+}
+.pgr {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  border: solid black 1px;
+  width: 200px;
+  align-items: center;
+}
+button {
+  width: 80px;
+}
+
+.list {
+  font-size: 20px;
+}
